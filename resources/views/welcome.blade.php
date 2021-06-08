@@ -7,7 +7,6 @@
             <img src="../../assets/img/Hormiga.png" alt="">
         </div>
         <h3 class="title text-center"><b>BIENVENIDO</b></h3>
-        <h2>prueba</h2>
         <br>
         <br>
                 <div class="nav-center">
