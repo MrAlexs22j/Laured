@@ -59,6 +59,8 @@
                 <div class="content">
                     <div class="container">
 
+                        <!-- LLAMAMOS LAS VISTAS -->
+                        
                         @yield('login')
                         @yield('content')
 

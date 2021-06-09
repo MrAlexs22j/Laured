@@ -58,6 +58,7 @@
                 <div class="content">
                     <div class="container">
 
+                        <!-- LLAMAMOS LAS VISTAS -->
 
                         @yield('register')
                         @yield('content')
