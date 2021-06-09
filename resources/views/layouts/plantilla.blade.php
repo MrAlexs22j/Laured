@@ -21,7 +21,7 @@
         <link href="/assets/css/google-roboto-300-700.css" rel="stylesheet" />
     </head>
     <body>
-        <nav class="navbar navbar-primary navbar-transparent navbar-absolute">
+        <nav class="navbar navbar-dark bg-dark">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example-2">
@@ -67,6 +67,7 @@
                     </div>
 
                 </div>
+               
                 <footer class="footer">
                     <div class="container">
                         <nav class="pull-left">

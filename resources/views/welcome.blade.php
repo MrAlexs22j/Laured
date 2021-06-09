@@ -16,22 +16,22 @@
         -->
                         <li>
                             <a href="#description-1" role="tab" data-toggle="tab">
-                                <i class="material-icons">info</i> Description
+                                <i class="material-icons">info</i> Acerca de nosotros
                             </a>
                         </li>
                         <li class="active">
                             <a href="#schedule-1" role="tab" data-toggle="tab">
-                                <i class="material-icons">location_on</i> Location
+                                <i class="material-icons">location_on</i> Encuentrenos
                             </a>
                         </li>
                         <li>
                             <a href="#tasks-1" role="tab" data-toggle="tab">
-                                <i class="material-icons">gavel</i> Legal Info
+                                <i class="material-icons">gavel</i> Informacion legal
                             </a>
                         </li>
                         <li>
                             <a href="#tasks-2" role="tab" data-toggle="tab">
-                                <i class="material-icons">help_outline</i> Help Center
+                                <i class="material-icons">help_outline</i> Contactenos
                             </a>
                         </li>
                     </ul>
@@ -42,11 +42,30 @@
                             <div class="card-header">
                                 <h4 class="card-title">Description about product</h4>
                                 <p class="category">
-                                    More information here
+                                    <h4><b>¿QUIENES SOMOS?</b></h4>
                                 </p>
                             </div>
                             <div class="card-content">
-                                Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits.
+                                <h6><b>PERFIL CORPORATIVO LAUMAYER S.A</b></h6>
+                                <h6>Laumayer Colombiana Comercializadora S.A es una compañía con 40 años de experiencia dedicada a la comercialización de productos para el sector eléctrico, redes y comunicaciones, iluminación y seguridad electrónica, cuenta con 6 agencias comerciales en Colombia, además de su sede en Ecuador, cobertura que facilita la entrega oportuna de nuestros productos y soluciones a través de nuestra red de distribución.
+                                    <br>
+                                    <br>
+                                    Laumayer S.A es una empresa siempre a la vanguardia, nuestra experiencia gira entorno a construir relaciones duraderas con nuestros clientes, donde además de brindar asesoría, capacitación y acompañamiento, los apoyamos para que alcancen sus metas comerciales y empresariales.
+                                    <br>
+                                    <br>
+                                    Nuestra oferta de productos atiende las necesidades de nuestros clientes en los sectores industrial, comercial y residencial. Una de nuestras fortalezas es ofrecer al mercado la mejor oferta de productos, soluciones y proveedores a nivel internacional para la satisfacción y solución de sus necesidades.
+                                    <br>
+                                    <br>
+                                </h6>
+                                <h6><b>MISION</b></h6>
+                                <h6>
+                                    Brindamos soluciones integrales e innovadoras que añaden valor a nuestros clientes.
+                                </h6>
+                                <br>
+                                <h6><b>VISION</b></h6>
+                                <h6>
+                                    Generar rentabilidad para garantizar la permanencia en el largo plazo brindando soluciones integrales e innovadoras, valor para nuestros clientes, calidad de vida y satisfacción para nuestros empleados.
+                                </h6>
                                 <br />
                                 <br /> Dramatically visualize customer directed convergence without revolutionary ROI.
                             </div>
