@@ -80,9 +80,7 @@
                                 </p>
                             </div>
                             <div class="card-content">
-                                Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
-                                <br />
-                                <br /> Dramatically maintain clicks-and-mortar solutions without functional solutions.
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.5035892721726!2d-75.58551318474926!3d6.197092628589801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e4682446b6fa345%3A0x4b8abeddfff91c5d!2sLaumayer%20Colombiana%20Comercializadora%20S.A.!5e0!3m2!1ses!2sco!4v1623276906760!5m2!1ses!2sco" width="%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                             </div>
                         </div>
                     </div>
