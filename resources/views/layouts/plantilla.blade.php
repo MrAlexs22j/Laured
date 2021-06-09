@@ -59,6 +59,7 @@
                 <div class="content">
                     <div class="container">
 
+                        <!-- LLAMAMOS LAS VISTAS -->
 
                         @yield('welcome')
 
