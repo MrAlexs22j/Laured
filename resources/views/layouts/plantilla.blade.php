@@ -61,11 +61,11 @@
 
                         <!-- LLAMAMOS LAS VISTAS -->
 
-                        @yield('welcome')
+                        
 
 
                     </div>
-
+                    @yield('welcome')
                 </div>
                
                 <footer class="footer">
