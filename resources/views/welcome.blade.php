@@ -19,7 +19,7 @@
                 <i class="material-icons">info</i> Acerca de nosotros
             </a>
         </li>
-        <li class="active">
+        <li class="">
             <a href="#schedule-1" role="tab" data-toggle="tab">
                 <i class="material-icons">location_on</i> Encuentrenos
             </a>
@@ -104,7 +104,7 @@
             </div>
         </div>
     </div>
-    <div class="tab-pane active" id="schedule-1">
+    <div class="tab-pane" id="schedule-1">
         <div class="card">
             <div class="card-header">
                 <h4 class="card-title">Location of the product</h4>
