@@ -18,4 +18,10 @@ class AdministradorController extends Controller
         return view('DEPARTAMENTOS.TIC.Administrador.administrador');
 
     }
+
+    public function perfil(){
+        //Esta ruta es de donde esta el archivo de administrador.blade.php
+        return view('DEPARTAMENTOS.TIC.Administrador.perfil');
+
+    }
 }

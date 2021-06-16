@@ -1,3 +1,24 @@
+.item-nosotros,.item-vision,.item-mision{padding-bottom:30px;margin-bottom:30px;margin-left: 5%;width:80%;position:relative,}
+.item-nosotros .col-8:after,.item-vision .col-8:after,
+.item-mision .col-8:after{content:"";display:block;height:2px;width:100%;background:#e9e9e9;margin-top:60px;clear:both;float: left;}
+.item-nosotros h2,.item-vision h2,.item-mision h2,.politica-calidad h2{color:#717171;height: 100%;}
+
+.empresa-texto-izquierdo{
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+
+}
+
+
+.politica-de-calidad, .politica-calidad {
+  display: block;
+  overflow: hidden;
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+}
+
 .hormiga_bienvenida {
   margin-left: 36%;
 }
@@ -10379,7 +10400,7 @@ footer .btn {
   border: none;
 }
 .card img {
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 .card .category .material-icons {
@@ -11570,3 +11591,5 @@ footer .btn {
     max-width: 211px;
   }
 }
+
+
