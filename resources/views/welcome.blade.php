@@ -26,7 +26,7 @@
         </li>
         <li>
             <a href="#tasks-1" role="tab" data-toggle="tab">
-                <i class="material-icons">gavel</i> Informacion legal
+                <i class="material-icons">gavel</i> Herramientas
             </a>
         </li>
         <li>
@@ -122,13 +122,70 @@
             <div class="card-header">
                 <h4 class="card-title">Legal info of the product</h4>
                 <p class="category">
-                    More information here
+                    <h4><b>HERRAMIENTAS</b></h4> 
                 </p>
             </div>
             <div class="card-content">
-                Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.
-                <br />
-                <br />Dynamically innovate resource-leveling customer service for state of the art customer service.
+                <div class="col-lg-3">
+                    <div class="card card-pricing card-raised">
+                        <div class="content">
+                            <h6 class="category"><b>HelpDesk</b></h6>
+                            <div class="icon icon-rose">
+                                <img src="../../assets/img/HelpDesk.png" alt="">
+                            </div>
+                            <h3 class="card-title">$29</h3>
+                            <p class="card-description">
+                                Soporte y ayuda general a toda la empresa por medio de las TIC.
+                            </p>
+                            <a href="https://laumayer.com.co/glpi/" class="btn btn-rose btn-round">GO!<div class="ripple-container"></div></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card card-pricing card-raised">
+                        <div class="content">
+                            <h6 class="category"><b>Inventario</b></h6>
+                            <div class="icon icon-rose">
+                                <img src="../../assets/img/Inventario.png" alt="">
+                            </div>
+                            <h3 class="card-title">$29</h3>
+                            <p class="card-description">
+                                Manejo de inventarios.
+                            </p>
+                            <a href="https://laumayer.com.co/ocsreports/" class="btn btn-rose btn-round">GO!<div class="ripple-container"></div></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card card-pricing card-raised">
+                        <div class="content">
+                            <h6 class="category"><b>Intranet</b></h6>
+                            <div class="icon icon-rose">
+                                <img src="../../assets/img/Intranet.png" alt="">
+                            </div>
+                            <h3 class="card-title">$29</h3>
+                            <p class="card-description">
+                                Red privada de la empresa.
+                            </p>
+                            <a href="https://laumayer.com.co/laumayernews/" class="btn btn-rose btn-round">GO!<div class="ripple-container"></div></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="card card-pricing card-raised">
+                        <div class="content">
+                            <h6 class="category"><b>CRM</b></h6>
+                            <div class="icon icon-rose">
+                                <img src="../../assets/img/CRM.png" alt="">
+                            </div>
+                            <h3 class="card-title">$29</h3>
+                            <p class="card-description">
+                                Gestión o Administración de Relaciones con el Cliente.
+                            </p>
+                            <a href="http://crmlaumayer.com/index.php?action=Login&module=Users" class="btn btn-rose btn-round">GO!<div class="ripple-container"></div></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
